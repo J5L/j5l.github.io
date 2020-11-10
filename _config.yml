@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "J. Severin Lehner"
-  avatar           : "profile_picture.jpg"
+  avatar           : "profile_picture.JPG"
   bio              : "Statistics, Data, Economics, Finance"
   location         : "Vienna/Austria"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : Severin Lehner
+  linkedin         : "Severin Lehner"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
